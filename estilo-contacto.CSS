@@ -8,6 +8,13 @@
         color: #46894c;
     }
     
+    footer {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        text-align: center;
+        color: #46894c;
+    }
+    
     form {
         max-width: 500px;
         margin: 0 auto;
